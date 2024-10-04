@@ -1,4 +1,4 @@
-Laravel ile oluşturulmuş Kullanıcı panel sistemi -   
+Laravel ile oluşturulmuş Kullanıcı panel sistemi  
 Bilgilerin mysql ile local db üzerinde tutuldurğu üye kayıt, üye giriş ve bilgileri düzenleme ekranı bulunmaktadır.
 
 - Migrations yapısı ile veritabanına tablo oluşturulmuş ve bu tablo içerisine gerekli alanlar eklenmiştir.
