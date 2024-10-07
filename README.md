@@ -10,6 +10,7 @@ Bilgilerin mysql ile local db üzerinde tutuldurğu üye kayıt, üye giriş ve 
 
 <img width="904" alt="image" src="https://github.com/user-attachments/assets/7b0fea8d-f1cb-4354-983d-fcfe9569681d">
 <img width="845" alt="image" src="https://github.com/user-attachments/assets/0864d919-9f76-4d83-aa7e-c8029dfe1e6a">
-<img width="1092" alt="image" src="https://github.com/user-attachments/assets/c4553a9d-26a8-4e76-94bd-c4da3a7fd66c">
-<img width="1084" alt="image" src="https://github.com/user-attachments/assets/250dbbcd-97e6-4311-b69b-d74a28094382">
+<img width="919" alt="image" src="https://github.com/user-attachments/assets/8560b2d4-dfe8-49f1-b98d-8a66023501da">
+<img width="1051" alt="image" src="https://github.com/user-attachments/assets/87f40491-1e35-462c-9a58-bbe84adb33b3">
+
 
